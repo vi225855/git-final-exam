@@ -1,3 +1,5 @@
 - Git là công cụ quản lý mã nguồn mạnh mẽ.
 - Nó giúp việc hợp tác nhóm trở nên có tổ chức hơn.
 - Tôi thấy thú vị với khả năng theo dõi lịch sử thay đổi.
+- Việc sử dụng branch cá nhân là rất quan trọng.
+- Các lệnh reset và revert cần được nắm vững.
