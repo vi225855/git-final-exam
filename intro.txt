@@ -1,0 +1,15 @@
+Chào mọi người, tôi là Văn Tuấn Vĩ.
+Tôi hiện đang là sinh viên Công nghệ thông tin tại Trường Đại Học Nam Cần Thơ.
+Tôi có niềm đam mê lớn với công nghệ và lập trình.
+Mục tiêu của tôi là trở thành một thiết kế web chuyên nghiệp.
+Tôi tin rằng việc học hỏi không ngừng là chìa khóa thành công.
+
+Sở thích:
+1. Đọc sách khoa học viễn tưởng.
+2. Chơi game chiến thuật.
+3. Chụp ảnh phong cảnh.
+
+Kỹ năng:
+1. Lập trình Python cơ bản.
+2. Sử dụng thành thạo Git/GitHub.
+3. Thiết kế giao diện cơ bản (UI/UX).
