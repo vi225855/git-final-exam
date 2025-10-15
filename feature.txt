@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống Đăng nhập bằng mã QR
+
+1. Mục tiêu: Cải thiện bảo mật và tốc độ đăng nhập cho người dùng di động.
+2. Công nghệ: Sử dụng thư viện QR Code Generator và camera API.
+3. Các bước thực hiện: Tạo mã QR trên máy chủ, quét bằng ứng dụng di động, xác thực token.
+4. Ưu điểm: Loại bỏ việc nhập mật khẩu thủ công, giảm thiểu rủi ro keylogging.
+5. Dự kiến hoàn thành: Cuối Quý 4.
